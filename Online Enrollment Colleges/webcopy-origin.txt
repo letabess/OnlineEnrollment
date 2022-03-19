@@ -1,0 +1,284 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/about.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\about.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/blog-single.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\blog-single.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/blog.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\blog.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/contact.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\contact.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/course.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\course.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/css/A.open-iconic-bootstrap.min.css+animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+aos.css+ionicons.min.css+bootstrap-datepicker.css+jquery.timepicker.css+flaticon.css+icomoon.css+style.css,Mcc.lMVocXBEYE.css.pagespeed.cf.D1NrarD2BS.css
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\css\A.open-iconic-bootstrap.min.css animate.css owl.carousel.min.css owl.theme.default.min.css magnific-popup.css aos.css ionicons.min.css boot.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/genius/event.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\event.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/flaticon/font/Flaticon.eot
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/flaticon/font/Flaticon.eot?
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/flaticon/font/Flaticon.svg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/flaticon/font/Flaticon.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/flaticon/font/Flaticon.woff
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\flaticon\font\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/icomoon/icomoon.eot?6tt51o
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/icomoon/icomoon.svg?6tt51o
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/icomoon/icomoon.ttf?6tt51o
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\icomoon\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/icomoon/icomoon.woff?6tt51o
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/ionicons/fonts/ionicons.svg?v=4.0.0-19
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/ionicons/fonts/ionicons.ttf?v=4.0.0-19
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/ionicons/fonts/ionicons.woff2?v=4.0.0-19
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\ionicons\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/ionicons/fonts/ionicons.woff?v=4.0.0-19
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.eot
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.eot?
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.otf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic.otf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.svg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.ttf
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/genius/fonts/open-iconic/open-iconic.woff
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\fonts\open-iconic\open-iconic.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/genius/images/person_3.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\person_3.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xbg_1.jpg.pagespeed.ic.sVxREb8KCX.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xbg_1.jpg.pagespeed.ic.sVxREb8KCX.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xbg_2.jpg.pagespeed.ic.977EtYvn8_.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xbg_2.jpg.pagespeed.ic.977EtYvn8_.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xbg_3.jpg.pagespeed.ic.Kvkp4yQGQX.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xbg_3.jpg.pagespeed.ic.Kvkp4yQGQX.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-1.jpg.pagespeed.ic.Lt4DOM616x.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-1.jpg.pagespeed.ic.Lt4DOM616x.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-2.jpg.pagespeed.ic.ouuzAZjAyf.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-2.jpg.pagespeed.ic.ouuzAZjAyf.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-3.jpg.pagespeed.ic.IBiOi2yRkl.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-3.jpg.pagespeed.ic.IBiOi2yRkl.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-4.jpg.pagespeed.ic.slC6QvygYX.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-4.jpg.pagespeed.ic.slC6QvygYX.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-5.jpg.pagespeed.ic.EFjJZCG_zs.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-5.jpg.pagespeed.ic.EFjJZCG_zs.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xcourse-6.jpg.pagespeed.ic.zyAHzeGYbJ.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xcourse-6.jpg.pagespeed.ic.zyAHzeGYbJ.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xevent-1.jpg.pagespeed.ic.WjEdn9x9qG.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xevent-1.jpg.pagespeed.ic.WjEdn9x9qG.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xevent-2.jpg.pagespeed.ic.E-gvKqBo7Q.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xevent-2.jpg.pagespeed.ic.E-gvKqBo7Q.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xevent-3.jpg.pagespeed.ic.LvS8S-eFn-.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xevent-3.jpg.pagespeed.ic.LvS8S-eFn-.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_1.jpg.pagespeed.ic.KsA6BAWKMj.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_1.jpg.pagespeed.ic.KsA6BAWKMj.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_2.jpg.pagespeed.ic.PItwZ95cNt.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_2.jpg.pagespeed.ic.PItwZ95cNt.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_3.jpg.pagespeed.ic.qpB0jqO9Qa.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_3.jpg.pagespeed.ic.qpB0jqO9Qa.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_4.jpg.pagespeed.ic.qGvjMkzb7L.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_4.jpg.pagespeed.ic.qGvjMkzb7L.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_5.jpg.pagespeed.ic.YahiUYSbAD.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_5.jpg.pagespeed.ic.YahiUYSbAD.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/ximage_6.jpg.pagespeed.ic.DEJUi89EMD.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\ximage_6.jpg.pagespeed.ic.DEJUi89EMD.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_4.jpg.pagespeed.ic.sgz97bCjv4.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_4.jpg.pagespeed.ic.sgz97bCjv4.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_5.jpg.pagespeed.ic.jLxFvhKFqS.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_5.jpg.pagespeed.ic.jLxFvhKFqS.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_6.jpg.pagespeed.ic.-XxBvrm8qO.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_6.jpg.pagespeed.ic.-XxBvrm8qO.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_7.jpg.pagespeed.ic.61Js91lohV.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_7.jpg.pagespeed.ic.61Js91lohV.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_8.jpg.pagespeed.ic.Cld5LX5HSK.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_8.jpg.pagespeed.ic.Cld5LX5HSK.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/images/xperson_9.jpg.pagespeed.ic.c05euZy270.jpg
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\images\xperson_9.jpg.pagespeed.ic.c05euZy270.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/genius/index.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\index.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/js/aos.js+jquery.animateNumber.min.js+bootstrap-datepicker.js+jquery.timepicker.min.js+scrollax.min.js+google-map.js.pagespeed.jc.AuCbXK-3zV.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\js\aos.js jquery.animateNumber.min.js bootstrap-datepicker.js jquery.timepicker.min.js scrollax.min.js google-map.js.pagespeed.jc.AuCbXK-3zV.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/js/jquery-migrate-3.0.1.min.js+popper.min.js+bootstrap.min.js+jquery.easing.1.3.js.pagespeed.jc.F-6Iqk2B9u.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\js\jquery-migrate-3.0.1.min.js popper.min.js bootstrap.min.js jquery.easing.1.3.js.pagespeed.jc.F-6Iqk2B9u.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/js/jquery.min.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/js/jquery.waypoints.min.js+jquery.stellar.min.js+owl.carousel.min.js+jquery.magnific-popup.min.js.pagespeed.jc.EdjAQjR_6W.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\js\jquery.waypoints.min.js jquery.stellar.min.js owl.carousel.min.js jquery.magnific-popup.min.js.pagespeed.jc.EdjAQjR_6W.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/js/main.js
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\js\main.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/genius/teacher-single.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\teacher-single.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/genius/teacher.html
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\theme\genius\teacher.html
+Content Type: text/html
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\beacon.min.js\v652eace1692a40cfa3763df669d7439c1639079717194
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: C:\Users\Chua\Downloads\General\Visual Studio HTML\2022\New folder (2)\MSTIP\preview.colorlib.com\gtag\js
+Content Type: application/javascript
+
